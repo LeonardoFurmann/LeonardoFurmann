@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, eu sou Leonardo Furmann.
 
-<!--
-**LeonardoFurmann/LeonardoFurmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ☕ Estudando Java e C#
+- 📫 leonardohfurmann@gmail.com
+- Linkedin: https://www.linkedin.com/in/leonardo-furmann-3aa2b721a/
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/LeonardoFurmann">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoFurmann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFurmann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
