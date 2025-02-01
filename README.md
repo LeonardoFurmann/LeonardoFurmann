@@ -1,6 +1,6 @@
 ### Olá, eu sou Leonardo Furmann.
 
-- ☕ Estudando CSS, Javascript e Python
+- ☕ Estudando Java e Javascript
 - 📫 leonardohfurmann@gmail.com
 - 📫 https://www.linkedin.com/in/leonardo-furmann-3aa2b721a/
 
